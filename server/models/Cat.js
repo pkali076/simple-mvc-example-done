@@ -4,7 +4,6 @@ const mongoose = require('mongoose');
 
 let CatModel = {};
 
-*/
 const CatSchema = new mongoose.Schema({
   name: {
     type: String,
